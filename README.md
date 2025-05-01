@@ -1,7 +1,7 @@
 ## Description of .xlsx and .csv files: 
  
 ### "rabbit_data.xlsx":
-Required for the file "animal_calibration_visualiser.py".
+Required for the file "animal_calibration_visualiser.py".\\
 Contains experimental data used to calibrate the model for rabbits.
 Sheet 1: Data from Table 4 of CFU in TBLN.
 Sheet 2: Data from Table 4 of CFU in blood.
