@@ -17,7 +17,7 @@ Sheet 3: Guinea-pig dose-response data from Ref. \[22\].
 ### "sorted_posterior_rabbits.csv":
 Required for the file "animal_calibration_visualiser.py".
 Contains lists of parameter values from the posterior distribution for rabbits, ordered from largest to smallest distance.
-Column 1: Values of log_{10}q.  
+Column 1: Values of $\log_{10}q$.  
 Column 2: Values of log_{10}\delta.  
 Column 3: Values of log_{10}\lambda_{LN}.  
 Column 4: Values of log_{10}\mu_{LN}.  
