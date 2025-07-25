@@ -42,7 +42,7 @@ Column 10: Values of $\log_{10}\mu_T$.
 
 ### "Sverdlovsk_incubation_periods.csv":
 Required for the files "Sverdlovsk_data_plots.py" and "human_calibration_visualiser.py".  
-Contains a list of the number of days to symptom onset for 70 individuals from the Sverdlovsk outbreak.
+Contains a list of the number of days to symptom onset for 30 individuals from the Sverdlovsk outbreak.
 
 ### "Sverdlovsk_dose_distribution.csv":
 Required for the file "human_model.py".  
