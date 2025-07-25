@@ -5,14 +5,14 @@ Required for the file "animal_calibration_visualiser.py".
 Contains experimental data used to calibrate the model for rabbits.  
 Sheet 1: Data from Table 4 of CFU in TBLN.  
 Sheet 2: Data from Table 4 of CFU in blood.  
-Sheet 3: Rabbit dose-response data from Ref. \[22\].
+Sheet 3: Rabbit dose-response data from Ref. \[21\].
 
 ### "guinea_pig_data.xlsx":
 Required for the file "animal_calibration_visualiser.py".  
 Contains experimental data used to calibrate the model for guinea pigs.  
 Sheet 1: Data from Table 5 of CFU in blood.  
 Sheet 2: Data from Table 5 of PA in blood.  
-Sheet 3: Guinea-pig dose-response data from Ref. \[22\].
+Sheet 3: Guinea-pig dose-response data from Ref. \[21\].
 
 ### "sorted_posterior_rabbits.csv":
 Required for the file "animal_calibration_visualiser.py".  
