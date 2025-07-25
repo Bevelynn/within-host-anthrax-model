@@ -9,7 +9,7 @@ plt.rcParams.update({'axes.titlesize': 'large'})
 plt.rcParams.update({'xtick.labelsize': 'large'})
 plt.rcParams.update({'ytick.labelsize': 'large'})
 
-params = {'r': 8.06*10**-5, 'R': 1.6, 'rho': 0.004, 'delta': 0.113, 'sigma': 0.358, 'p': 0.006, 'N': 10**10}
+params = {'r': 8.06*10**-5, 'R': 1.6, 'rho': 0.004, 'delta': 0.107, 'sigma': 0.217, 'p': 0.01, 'N': 10**10}
 
 #returns an array of the prob of symptom onset before time t, for all t in times (in hours),
 #given dose D
